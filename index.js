@@ -2,7 +2,7 @@ function getAccel(){
     const redis = require('redis');
 
     const redisClient = redis.createClient({
-        url:'redis://default:TSnu2tKQb8hj5Ln7trXe@containers-us-west-12.railway.app:8001'
+        url:'redis://default:92RiSB6R3mN1pvvGKYda@containers-us-west-41.railway.app:7388'
     });
     
 //     const redisOptions = {
